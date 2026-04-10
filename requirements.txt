@@ -1,0 +1,11 @@
+kaggle
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+kagglehub==0.2.7
+textblob
+nltk
+streamlit
+imbalanced-learn
